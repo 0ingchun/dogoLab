@@ -49,6 +49,14 @@
 
 ---
 
+## 外壳与3D模型
+
+若你想制作设备外壳
+
+👉 [3D模型 使用指南](3D-moudel/README.md)
+
+---
+
 ## 🚀 快速上手 <a name="installation"></a>
 
 > （本节将稍后更新硬件连接方法与 SDK 安装教程）
@@ -63,6 +71,8 @@
 2. 获取硬件👉 [硬件模块 使用指南](hardware/README.md)
 
 3. 烧录固件👉 [SDK & 软件驱动库 使用指南](software/README.md)
+
+4. 制作设备外壳 👉 [3D模型 使用指南](3D-moudel/README.md)
 
 ---
 
