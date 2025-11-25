@@ -72,7 +72,7 @@
 
 3. 烧录固件👉 [SDK & 软件驱动库 使用指南](software/README.md)
 
-4. 制作设备外壳 👉 [3D模型 使用指南](3D-moudel/README.md)
+4. 制作设备外壳 👉 [3D模型 使用指南](3D-model/README.md)
 
 ---
 
